@@ -1,6 +1,6 @@
 <h1 align="center">
      <img src="https://github.com/gabrielpulga/nlw2-proffy/blob/master/.github/logo.svg" alt"Proffy" title="Proffy" />
-    <br>Next Level Week #2<br/>
+    
     Node.js | ReactJS | React Native
 </h1>
 
